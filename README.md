@@ -55,3 +55,5 @@ Session Management: Book, update, or cancel your sessions under the 'Sessions' t
 
 Contributing
 Feel free to fork the repository and submit pull requests for any improvements or fixes. Contributions are welcome!
+
+Notes: work in progress; summer project?
